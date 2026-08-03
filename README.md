@@ -1,6 +1,6 @@
 # 💫 About Me:
-Detail-oriented Computer Science graduate and aspiring Data Analyst with hands-on experience in Python, SQL, and machine <br>learning. Skilled at transforming raw data into actionable insights through statistical analysis, predictive modeling, and <br>interactive dashboards. Passionate about applying data-driven approaches to solve real-world business problems and deliver <br>measurable impact.
-
+Detail-oriented Computer Science Engineering student and Data Science & Machine Learning enthusiast with hands-on experience in Python, SQL, and data analytics. Skilled at transforming raw data into actionable insights through statistical analysis, predictive modeling, and interactive dashboards. Passionate about leveraging data-driven approaches and artificial intelligence to solve real-world problems while continuously learning and building impactful projects.
+,
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ahamed Asraf) 
